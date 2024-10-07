@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/cyberEnfortech/static/js/main.c116621a.js",
-    "index.html": "/cyberEnfortech/index.html",
-    "main.c116621a.js.map": "/cyberEnfortech/static/js/main.c116621a.js.map"
+    "main.js": "/static/js/main.74e22baf.js",
+    "index.html": "/index.html",
+    "main.74e22baf.js.map": "/static/js/main.74e22baf.js.map"
   },
   "entrypoints": [
-    "static/js/main.c116621a.js"
+    "static/js/main.74e22baf.js"
   ]
 }
