@@ -166,18 +166,7 @@ function Header1() {
               <div className="header-nav navbar-collapse collapse d-flex justify-content-center collapse ">
                 <ul className=" nav navbar-nav ">
                   <li className="active">
-                    <NavLink to="/index">Home</NavLink>
-                    <ul className="sub-menu">
-                      <li>
-                        <NavLink to="/index">Home-1</NavLink>
-                      </li>
-                      <li>
-                        <NavLink to="/index2">Home-2</NavLink>
-                      </li>
-                      <li>
-                        <NavLink to="/index3">Home-3</NavLink>
-                      </li>
-                    </ul>
+                    <NavLink to="/">Home</NavLink>
                   </li>
                   <li>
                     <NavLink to="/about-us">Company</NavLink>
@@ -188,12 +177,12 @@ function Header1() {
                       <li>
                         <NavLink to="/faq">Faq Page</NavLink>
                       </li>
-                      <li>
+                      {/* <li>
                         <NavLink to="/gallery">Gallery</NavLink>
-                      </li>
-                      <li>
+                      </li> */}
+                      {/* <li>
                         <NavLink to="/icons">Icons</NavLink>
-                      </li>
+                      </li> */}
                       <li>
                         <NavLink to="/testimonials">Testimonials</NavLink>
                       </li>
