@@ -20,9 +20,9 @@ function ContactUsPage() {
                     <div className="sx-head-s-title">Contact Us</div>
                     <div className="sx-head-l-title">
                       <h2 className="sx-title">
-                        Our creative design solutions are for people, Contact
-                        Our Office.{" "}
+                        Our creative design solutions are for people.{" "}
                       </h2>
+                      <h4 className="sx-title" style={{fontSize:"1rem", marginTop:"10px"}}>For more information or to schedule a consultation, reach out to us at:</h4>
                     </div>
                   </div>
                   {/* TITLE END */}
@@ -52,7 +52,7 @@ function ContactUsPage() {
                             Contact Mail
                           </a>
                           <a href="/" className="sx-icon-bx-title">
-                            info.kali @gmail.com
+                          cyberenfortech@gmail.com
                           </a>
                         </div>
                       </div>
